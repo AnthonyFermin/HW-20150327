@@ -2,7 +2,8 @@ package nyc.c4q.AnthonyFermin;
 
 import java.util.Scanner;
 
-/**
+/**Anthony Fermin
+ * Access Code HW3
  * Class for Encoding and Decoding CaesarCiphers
  */
 public class CaesarCipher {
